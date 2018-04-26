@@ -10,7 +10,7 @@ A short paragraph explaining what is covered in the module. This should be text 
 
 A bulleted list of skills students require to learn and understand the module:
 
-*   List of skills
+*   Able to take a screenshot
 
 ## Objectives
 
